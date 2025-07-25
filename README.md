@@ -51,7 +51,6 @@ The platform ensures transparency, efficient tracking, and accountability in con
 3. Run the website
 
    ```bash
-   cd cartridge-requisition-system
    python3 manage.py runserver
 
    ```
