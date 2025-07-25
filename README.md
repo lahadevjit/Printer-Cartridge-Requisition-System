@@ -59,9 +59,6 @@ The platform ensures transparency, efficient tracking, and accountability in con
 
 ## Few images of the website design
 
-![](images/Screenshot(73).png)
-![](images/Screenshot(74).png)
-![](images/Screenshot(75).png)
-![](images/Screenshot(76).png)
-![](images/Screenshot(77).png)
+<img width="1352" height="645" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/697b9007-8f28-4489-a127-30509b2afb41" />
+<img width="1366" height="645" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/fc306b76-fa3f-4210-8225-c128fa3053c2" />
 
