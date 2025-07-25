@@ -32,35 +32,36 @@ The platform ensures transparency, efficient tracking, and accountability in con
 
 ## 🔧 Installation & Run Locally
 
-### ✅ Step 1: Install dependencies
+## Run the website
 
-```bash
-pip install django
+1. Install dependencies
 
-✅ Step 2: Clone the repository
-git clone https://github.com/your-username/cartridge-requisition-system.git
+   ```bash
+    pip install django
 
-✅ Step 3: Run the application
-cd cartridge-requisition-system
-python manage.py runserver
+   ```
 
+2. Clone the repo
 
-cartridge-requisition-system/
-│
-├── templates/
-│   ├── request_form.html
-│   ├── status_page.html
-│   ├── approve_page.html
-│   ├── issue_page.html
-│   └── report_page.html
-│
-├── requisition/           
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   └── forms.py
-│
-├── db.sqlite3
-├── manage.py
-└── README.md
+   ```bash
+   git clone https://github.com/lahadevjit/Printer-Cartridge-Requisition-System.git
+
+   ```
+
+3. Run the website
+
+   ```bash
+   cd cartridge-requisition-system
+   python3 manage.py runserver
+
+   ```
+---
+
+## Few images of the website design
+
+![](images/Screenshot(73).png)
+![](images/Screenshot(74).png)
+![](images/Screenshot(75).png)
+![](images/Screenshot(76).png)
+![](images/Screenshot(77).png)
 
